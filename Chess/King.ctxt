@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=King
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ King\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ King\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=white
+comment2.target=King(boolean)
+comment3.params=board\ piecePosition\ checkedPosition\ possibleBlock\ nullTile
+comment3.target=boolean\ ifTracedTile(Chessboard,\ Tile,\ Tile,\ Tile,\ Tile)
+comment4.params=board\ oldPosition\ newPosition
+comment4.target=boolean\ legalMove(Chessboard,\ Tile,\ Tile)
+comment5.params=board\ oldPosition\ checkedPosition
+comment5.target=boolean\ SafeSquare(Chessboard,\ Tile,\ Tile)
+comment6.params=
+comment6.target=void\ setHasMoved()
+comment7.params=start\ end
+comment7.target=void\ updateLocation(int,\ int)
+numComments=8

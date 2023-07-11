@@ -1,0 +1,18 @@
+white Knight 2 1
+
+white Rook 1 1
+white Rook 8 1
+white Knight 7 1
+white Bishop 6 1
+white Bishop 3 1
+white Queen 4 1
+White King 5 1
+
+black Rook 1 8
+black Rook 8 8
+black Knight 2 8
+black Knight 7 8
+black Bishop 6 8
+black Bishop 3 8
+black Queen 4 8
+black King 5 8

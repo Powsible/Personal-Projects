@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rook
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rook\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Rook\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=white
+comment2.target=Rook(boolean)
+comment3.params=board\ piecePosition\ checkedPosition\ possibleBlock\ nullTile
+comment3.target=boolean\ ifTracedTile(Chessboard,\ Tile,\ Tile,\ Tile,\ Tile)
+comment4.params=board\ oldPosition\ newPosition
+comment4.target=boolean\ legalMove(Chessboard,\ Tile,\ Tile)
+comment5.params=start\ end
+comment5.target=void\ updateLocation(int,\ int)
+comment6.params=
+comment6.target=void\ setHasMoved()
+numComments=7

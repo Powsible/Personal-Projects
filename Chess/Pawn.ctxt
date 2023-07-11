@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pawn
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pawn\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Pawn\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=white
+comment2.target=Pawn(boolean)
+comment3.params=board\ piecePosition\ checkedPosition\ possibleBlock\ nullTile
+comment3.target=boolean\ ifTracedTile(Chessboard,\ Tile,\ Tile,\ Tile,\ Tile)
+comment4.params=board\ oldPosition\ newPosition
+comment4.target=boolean\ legalMove(Chessboard,\ Tile,\ Tile)
+comment5.params=start\ end
+comment5.target=void\ updateLocation(int,\ int)
+comment6.params=newEnPassant
+comment6.target=void\ setEnPassant(boolean)
+comment7.params=
+comment7.target=boolean\ getEnPassant()
+comment8.params=
+comment8.target=void\ setHasMoved()
+numComments=9
